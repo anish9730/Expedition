@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\TravelWebsite\PayelTourisom\Updated Project\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="aboutus.html">
+      <publishTime>08/28/2019 15:39:20</publishTime>
+    </File>
+    <File Include="ArunachalPackages.html">
+      <publishTime>08/28/2019 15:39:52</publishTime>
+    </File>
+    <File Include="BhutanPackages.html">
+      <publishTime>08/28/2019 15:40:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="bin/PayelGroup.dll">
+      <publishTime>08/28/2019 15:46:48</publishTime>
+    </File>
+    <File Include="bin/PayelGroup.pdb">
+      <publishTime>08/28/2019 15:46:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="booking.aspx">
+      <publishTime>08/28/2019 15:37:38</publishTime>
+    </File>
+    <File Include="booking.html">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="contactus.html">
+      <publishTime>08/28/2019 15:40:57</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="css/dashboard.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="css/icons.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="css/plugin.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="DarjeelingPackages.html">
+      <publishTime>08/28/2019 15:41:25</publishTime>
+    </File>
+    <File Include="Feedback.html">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="font/flaticon.css">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Flaticon.eot">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Flaticon.svg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Flaticon.ttf">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Flaticon.woff">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Flaticond41d.eot">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/iconsmindca27.eot">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/iconsmindca27.svg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/iconsmindca27.ttf">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/iconsmindca27.woff">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/iconsmindd41d.eot">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/simple-line-iconsc05f-2.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/simple-line-iconsc05f.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Simple-Line-Iconsc05f.ttf">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="font/Simple-Line-Iconsc05f.woff">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62-2.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62-3.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62-4.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62-5.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont5b62.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfontd41d.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-2.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-3.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-4.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular-5.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regulard41dd41d.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/ionicons28b528b528b5-2.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/ionicons28b528b528b5-3.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/ionicons28b528b528b5-4.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="fonts/ionicons28b528b528b5.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="GangTokPackages.html">
+      <publishTime>08/28/2019 15:42:43</publishTime>
+    </File>
+    <File Include="hmtm.html">
+      <publishTime>08/28/2019 15:43:15</publishTime>
+    </File>
+    <File Include="hotelChumbi.html">
+      <publishTime>08/28/2019 15:43:48</publishTime>
+    </File>
+    <File Include="images/adbg.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at1_back.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at2_back.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/at3_back.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/author.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/blog6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb_chumbi.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb_hmtm.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb_MountRoyal.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/breadcrumb_old.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucket6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/bucketbg.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/comment.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/countdownbg.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Darjeeling.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/deal1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/deal2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/deal3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/deal4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/deal5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/dealsbg-1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/dealsbg.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/destination1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/destination2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/destination3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/destination4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/detailslider1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/detailslider2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/detailslider3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/detailslider4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Dooars.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ft1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ft2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ft3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ft4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ft5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/fw1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/fw2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/grid5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Arunachal.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Bhutan.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Darjeeling.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Gangtok.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Nepal.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/HomepagePackages/Shilong.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Chumbi/7.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Mistree/1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Mistree/2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Mistree/3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Mistree/4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/Mistree/5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Hotels/MountRoyale/7.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/hotelslogo/chumbi.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/hotelslogo/mistrimountain.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/hotelslogo/MountRoyale.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta7.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta8.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/insta9.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Kalimpong.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Lachen.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Lachung.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/list10.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/list6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/list7.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/list8.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/list9.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/loader.gif">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/logo1.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Mirik.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/package1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/package2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/package3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Arunachal.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Bhutan.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Bomdila.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/changulake.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/cherrapunjee.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/darjeeling.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Gangtok.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Guwahati.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/jeepsafari.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Kathmandu.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Mawlynnong.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Pelling.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Pokhara.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Punakha.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/slider_Gangtok.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/slider_Lachen.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/slider_Lachung.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Tezpur.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/packages/Thimphu.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner1.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner2.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner3.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner4.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner5.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/partner6.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/payment1.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/payment2.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/payment3.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/payment4.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/profile1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/quote.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/recent1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/recent2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/sale1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/sale2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/sale3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/sale4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/shop1.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/shop3.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/shop4.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/shop5.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Sikkim.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider-blog/slider1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider-blog/slider2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider-blog/slider3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/slider/slider6.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/stripe.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testemonial1.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testemonial2.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testemonial3.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testemonial4.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testemonial5.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/testimonialbg.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/ThunguLake.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/travelogy-01.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/travelogy-white.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/user-avatar.jpg">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/video.mp4">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-01 - Bkup.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-01...png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-01.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-01_old.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-white.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="images/Yatra-white_old.png">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>08/28/2019 15:35:52</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/chart.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/counterup.min.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/custom-countdown.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/dashboard-custom.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/jpanelmenu.min.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/jquery-3.2.1.min.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/main-1.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/map.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/plugin.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/preloader.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/rangeslider.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="js/tabs.js">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="MountRoyal.html">
+      <publishTime>08/28/2019 15:44:17</publishTime>
+    </File>
+    <File Include="NepalPackages.html">
+      <publishTime>08/28/2019 15:44:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/.signature.p7s">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/MonoAndroid10/_._">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/MonoTouch10/_._">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/net45/_._">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/netcore50/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/netcoreapp2.0/_._">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/netstandard1.3/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/netstandard2.0/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/portable-net45+win8+wp8+wpa81/_._">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/uap10.0.16299/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/win8/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/wp80/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/wpa81/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/xamarinios10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/xamarinmac20/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/xamarintvos10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/lib/xamarinwatchos10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/LICENSE.TXT">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/Microsoft.CSharp.4.5.0.nupkg">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/MonoAndroid10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/MonoTouch10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/net45/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/de/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/es/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/fr/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/it/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/ja/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/ko/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/ru/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/zh-hans/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcore50/zh-hant/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netcoreapp2.0/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/de/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/es/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/fr/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/it/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/ja/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/ko/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/ru/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/zh-hans/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard1.0/zh-hant/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard2.0/Microsoft.CSharp.dll">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/netstandard2.0/Microsoft.CSharp.xml">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/portable-net45+win8+wp8+wpa81/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/uap10.0.16299/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/win8/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/wp80/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/wpa81/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/xamarinios10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/xamarinmac20/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/xamarintvos10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/ref/xamarinwatchos10/_._">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/THIRD-PARTY-NOTICES.TXT">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/useSharedDesignerContext.txt">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CSharp.4.5.0/version.txt">
+      <publishTime>08/13/2019 12:52:57</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>08/13/2019 12:52:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/28/2019 15:46:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
