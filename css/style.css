@@ -2551,7 +2551,7 @@ span.new-price {
 
 .sale-content a.btn-blue:hover {
     background: #005294;
-    color: #fff;
+    color: #fff !important;
 }
 
 
