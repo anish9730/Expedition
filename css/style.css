@@ -1100,7 +1100,8 @@ ul.nav-mini li i {
 .slide-inner {
     position: absolute;
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
+    height: 98%;
     left: 0;
     top: 0;
     background-size: cover;
