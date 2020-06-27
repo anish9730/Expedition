@@ -278,7 +278,23 @@ a.btn-blue {
     cursor: pointer;
 }
 
+input[type=button].btn-blue {
+    border: 1px solid #005294;
+    padding: 7px 25px;
+    display: inline-block;
+    background: #005294;
+    color: #fff !important;
+    transition: all ease-in-out 0.3s;
+    cursor: pointer;
+}
+
 a.btn-blue:hover {
+    background: #fff;
+    color: #005294 !important;
+    border-color: #005294;
+}
+
+input[type=button].btn-blue:hover {
     background: #fff;
     color: #005294 !important;
     border-color: #005294;
@@ -290,9 +306,25 @@ a.btn-white {
     color: #fff;
 }
 
+input[type=button].btn-white {
+    background: transparent;
+    border-color: #fff;
+    color: #fff;
+}
+
 a.btn-red {
     background: #f10000;
     border-color: #D60D45;
+}
+
+input[type=button].btn-red {
+    background: #f10000;
+    border-color: #D60D45;
+}
+
+input[type=button].btn-green {
+    background: #0cd63e;
+    border-color: #078a2e;
 }
 
 a.btn-red:hover {
@@ -301,12 +333,34 @@ a.btn-red:hover {
     border-color: #D60D45;
 }
 
+input[type=button].btn-red:hover {
+    background: #fff;
+    color: #D60D45;
+    border-color: #D60D45;
+}
+
+input[type=button].btn-green:hover {
+    background: #fff;
+    color: #0cd63e;
+    border-color: #078a2e;
+}
+
 a.btn-style-1 {
     border-radius: 25px;
     padding: 10px 25px;
 }
 
+input[type=button].btn-style-1 {
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
 a.btn-style-2 {
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+
+input[type=button].btn-style-2 {
     border-radius: 10px;
     padding: 10px 25px;
 }
